@@ -214,7 +214,7 @@ The pattern looks different depending on where you focus, that's by design.
 
 **Full Medium Story:** 
 
-[Click here to Read the Article on Medium]()
+[Click here to Read the Article on Medium](https://medium.com/@IamOmarDarwesh/when-growth-met-emissions-a-data-driven-story-of-how-countries-are-redefining-the-relationship-491644cbb896?sharedUserId=IamOmarDarwesh)
 
 --- 
 
